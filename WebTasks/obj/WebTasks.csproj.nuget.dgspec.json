@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Downloads\\WebTasks-Task5\\WebTasks-Task5\\WebTasks\\WebTasks.csproj": {}
+    "C:\\Новая папка\\web5\\WebTasks\\WebTasks.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Downloads\\WebTasks-Task5\\WebTasks-Task5\\WebTasks\\WebTasks.csproj": {
+    "C:\\Новая папка\\web5\\WebTasks\\WebTasks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Downloads\\WebTasks-Task5\\WebTasks-Task5\\WebTasks\\WebTasks.csproj",
+        "projectUniqueName": "C:\\Новая папка\\web5\\WebTasks\\WebTasks.csproj",
         "projectName": "WebTasks",
-        "projectPath": "C:\\Users\\USER\\Downloads\\WebTasks-Task5\\WebTasks-Task5\\WebTasks\\WebTasks.csproj",
+        "projectPath": "C:\\Новая папка\\web5\\WebTasks\\WebTasks.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Downloads\\WebTasks-Task5\\WebTasks-Task5\\WebTasks\\obj\\",
+        "outputPath": "C:\\Новая папка\\web5\\WebTasks\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,6 +43,12 @@
               "version": "[3.1.4, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[3.1.4, )"
             },
